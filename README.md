@@ -1,2 +1,2 @@
 # torch-blitz
-A Quick Torch Recap and Revision via paper implementations in Pyt
+A Quick Torch Recap and Revision via paper implementations in PyTorch
